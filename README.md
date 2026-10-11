@@ -32,6 +32,14 @@ The objective is to generate business insights through data analysis and visuali
 
 ---
 
+## SQL Analysis
+
+The SQL queries used for this project are available here:
+
+[[SQL Analysis File](./query_table_analisa_kimia_farma.sql)]
+
+---
+
 ## 🔄 Project Workflow
 
 1. Data exploration
