@@ -36,7 +36,7 @@ The objective is to generate business insights through data analysis and visuali
 
 The SQL queries used for this project are available here:
 
-[[SQL Analysis File](./query_table_analisa_kimia_farma.sql)]
+[View SQL Analysis File](./query_tabel_analisa_kimia_farma.sql)
 
 ---
 
