@@ -34,7 +34,7 @@ The objective is to generate business insights through data analysis and visuali
 
 ## 📊 Project Preview
 
-![Kimia Farma Big Data Analytics](Kimia farma portfolio image.png) 
+![Kimia Farma Big Data Analytics](kimia-farma-portfolio-image.png)
 
 ---
 
