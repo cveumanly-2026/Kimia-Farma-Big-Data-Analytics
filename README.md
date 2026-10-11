@@ -46,6 +46,15 @@ The SQL queries used for this project are available here:
 
 ---
 
+## 📈 Key Insights
+
+- Analyzed pharmaceutical business performance from 2020–2023.
+- Evaluated sales trends, transaction patterns, and business performance indicators.
+- Built analytical queries to support data-driven decision-making.
+- Created visualization for performance monitoring.
+
+---
+
 ## 🔄 Project Workflow
 
 1. Data exploration
@@ -67,6 +76,14 @@ The SQL queries used for this project are available here:
 
 ---
 
+## 📊 Dashboard
+
+View the interactive dashboard:
+
+[Google Looker Studio Dashboard](https://datastudio.google.com/reporting/5f3ce684-ffff-409b-9d80-b61e5ba2cb81/page/p_1qmd4nor5d)
+
+---
+
 ## 📈 Key Analysis Areas
 
 - Revenue performance analysis
@@ -83,6 +100,17 @@ The SQL queries used for this project are available here:
 - Business intelligence
 - Data visualization
 - Pharmaceutical industry analytics
+
+---
+
+## Skills Demonstrated
+
+- SQL Data Analysis
+- BigQuery
+- Healthcare / Pharmaceutical Analytics
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
 
 ---
 
