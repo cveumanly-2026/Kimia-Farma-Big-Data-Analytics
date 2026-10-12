@@ -1,3 +1,46 @@
+/*
+============================================================
+Kimia Farma Business Performance Analysis
+============================================================
+
+Script Purpose:
+    This query combines transaction, branch, and product data
+    into one table for analysis.
+
+    It is used to show:
+    - Transaction details
+    - Branch information
+    - Product information
+    - Product price
+    - Discount percentage
+    - Gross profit percentage
+    - Net sales
+    - Net profit
+    - Branch rating
+    - Transaction rating
+
+Data Sources:
+    - kimia_farma.kf_final_transaction
+    - kimia_farma.kf_kantor_cabang
+    - kimia_farma.kf_product
+
+Main Process:
+    - Join transaction data with branch data
+    - Join transaction data with product data
+    - Use CASE to calculate gross profit percentage
+    - Calculate net sales after discount
+    - Calculate net profit
+
+Output:
+    One final dataset that can be used for business analysis
+    and dashboard creation in Google Looker Studio.
+
+Note:
+    This query only reads data.
+    It does not change or delete the source tables.
+============================================================
+*/
+
 SELECT 
   t.transaction_id,
   t.date,
