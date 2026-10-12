@@ -38,6 +38,16 @@ The objective is to generate business insights through data analysis and visuali
 
 ---
 
+### 🎥 Dashboard Presentation
+
+Watch the dashboard walkthrough on YouTube:
+
+[▶️ Watch the Kimia Farma Dashboard Presentation](https://youtu.be/Hk5ElfBv-ro)
+
+> **Note:** Financial values in the dashboard are presented in Indonesian Rupiah (IDR).
+
+---
+
 ## SQL Analysis
 
 The SQL queries used for this project are available here:
